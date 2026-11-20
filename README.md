@@ -87,8 +87,8 @@ distribution (RSD) of Mg-doped 45S5 bioactive glass from partial radial distribu
 Python ≥ 3.10 (developed and tested with Python 3.13). CPU-only; no GPU required.
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone https://github.com/AmirhosseinMoghanian/45S5-Mg-RSD-ML.git
+cd 45S5-Mg-RSD-ML
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
