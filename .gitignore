@@ -1,0 +1,24 @@
+# Python / Numba caches
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+
+# Virtual environments
+.venv/
+venv/
+
+# Raw simulation data (available from the authors; see data/README.md)
+data/trajectories/
+
+# Generated outputs
+results/
+Bioglass_Mg*/
+simulation.log
+*.npz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
